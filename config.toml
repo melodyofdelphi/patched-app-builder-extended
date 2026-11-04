@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Hush-Pinterest]
+[Pinterest]
 app-name = "Pinterest"
 build-mode = "apk"
 patches-source = "SysAdminDoc/HushPinterest"
